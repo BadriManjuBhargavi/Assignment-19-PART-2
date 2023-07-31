@@ -1,0 +1,8 @@
+C:\DAY 16\Assignment=19-PART 2\Assignment=19-PART 2\bin\Debug\Assignment=19-PART 2.exe.config
+C:\DAY 16\Assignment=19-PART 2\Assignment=19-PART 2\bin\Debug\Assignment=19-PART 2.exe
+C:\DAY 16\Assignment=19-PART 2\Assignment=19-PART 2\bin\Debug\Assignment=19-PART 2.pdb
+C:\DAY 16\Assignment=19-PART 2\Assignment=19-PART 2\obj\Debug\Assignment=19-PART 2.csproj.AssemblyReference.cache
+C:\DAY 16\Assignment=19-PART 2\Assignment=19-PART 2\obj\Debug\Assignment=19-PART 2.csproj.SuggestedBindingRedirects.cache
+C:\DAY 16\Assignment=19-PART 2\Assignment=19-PART 2\obj\Debug\Assignment=19-PART 2.csproj.CoreCompileInputs.cache
+C:\DAY 16\Assignment=19-PART 2\Assignment=19-PART 2\obj\Debug\Assignment=19-PART 2.exe
+C:\DAY 16\Assignment=19-PART 2\Assignment=19-PART 2\obj\Debug\Assignment=19-PART 2.pdb
